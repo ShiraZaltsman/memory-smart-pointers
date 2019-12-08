@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/CPP/memory-smart-pointers-ShiraZaltsman/SherePtr.cpp
+SherePtr.h
+/home/shira/Desktop/CPP/memory-smart-pointers-ShiraZaltsman/SherePtr.h
+
+/home/shira/Desktop/CPP/memory-smart-pointers-ShiraZaltsman/SherePtr.h
+iostream
+-
+

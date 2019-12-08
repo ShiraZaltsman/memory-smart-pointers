@@ -1,0 +1,3 @@
+/home/shira/Desktop/CPP/memory-smart-pointers-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/CPP/memory-smart-pointers-ShiraZaltsman/cmake-build-debug/CMakeFiles/memory_smart_pointers_ShiraZaltsman.dir
+/home/shira/Desktop/CPP/memory-smart-pointers-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir
